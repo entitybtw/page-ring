@@ -213,3 +213,8 @@
   name: "areg"
   url: "https://aregus.me"
   buttonUrl: /buttons/areg.png
+
+- id: freshshrimp
+  name: "freshshrimp"
+  url: "https://avin-c.github.io/avin-website/"
+  buttonUrl: /buttons/freshshrimp.png
