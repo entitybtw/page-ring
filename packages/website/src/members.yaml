@@ -218,3 +218,8 @@
   name: "avin"
   url: "https://avin-c.github.io/avin-website/"
   buttonUrl: /buttons/freshshrimp.png
+
+- id: nova
+  name: "nova"
+  url: "https://novatea.dev"
+  buttonUrl: "https://novatea.dev/88x31.gif"
