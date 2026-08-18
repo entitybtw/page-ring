@@ -233,3 +233,8 @@
   name: "seneth"
   url: "http://seneth.me"
   buttonUrl: "https://seneth.me/content/button.gif"
+
+- id: pxlinspace
+  name: "pxlinspace"
+  url: "https://pxlin.space/"
+  buttonUrl: "https://pxlin.space/button.gif"
