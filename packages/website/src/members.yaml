@@ -238,3 +238,8 @@
   name: "pxlinspace"
   url: "https://pxlin.space/"
   buttonUrl: "https://pxlin.space/button.gif"
+
+- id: twonum
+  name: "twonum"
+  url: "https://www.twonum.org/"
+  buttonUrl: "https://www.twonum.org/static/button/button.png"
