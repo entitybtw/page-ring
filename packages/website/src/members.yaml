@@ -243,3 +243,8 @@
   name: "twonum"
   url: "https://www.twonum.org/"
   buttonUrl: "https://www.twonum.org/static/button/button.png"
+
+- id: entitybtw
+  name: "entitybtw"
+  url: "https://entitybtw.ru"
+  buttonUrl: "https://entitybtw.ru/images/entitybtw.gif"
